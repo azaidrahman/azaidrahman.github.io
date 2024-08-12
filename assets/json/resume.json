@@ -30,11 +30,13 @@
       "startDate": "2019-05-01",
       "endDate": "Present",
       "summary": "I was responsible for the creation, implementation, and analysis of online surveys using advanced scripting techniques to provide businesses with data-driven insights.",
-      "highlights": ["Market Research","Analysis"]
+      "highlights": [
+        "Market Research",
+        "Analysis"
+      ]
     }
   ],
-  "volunteer": [
-  ],
+  "volunteer": [],
   "education": [
     {
       "institution": "University of Technology MARA",
@@ -45,11 +47,16 @@
       "startDate": "2017-03-01",
       "endDate": "2019-03-01",
       "score": "3.76",
-      "courses": ["Statistics","Financial Mathematics","Risk Models","Probability Theory","Linear Algebra"]
+      "courses": [
+        "Statistics",
+        "Financial Mathematics",
+        "Risk Models",
+        "Probability Theory",
+        "Linear Algebra"
+      ]
     }
   ],
-  "awards": [
-  ],
+  "awards": [],
   "certificates": [
     {
       "name": "CompTIA Data+",
@@ -146,7 +153,10 @@
     {
       "name": "Quantum Computing",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "highlights": [
+        "Quantum Teleportation",
+        "Quantum Cryptography"
+      ],
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
       "url": "https://example.com"
