@@ -2,24 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
+subtitle: <a href='#'>Zaid</a>. Bangsar South. Data Science .
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Bangsar South</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I'm Zaid, a 26-year-old from Kuala Lumpur, Malaysia, currently working in data analysis and market research. My journey here has been anything but linear.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+After finishing my diploma in Actuarial Science, life took an unexpected turn. Financial realities pushed me into the workforce instead of further education. This led me to InsightzSurvey, where I've grown from a newcomer to leading the scripting team. It's been a crash course in adapting, learning on the fly, and turning challenges into opportunities.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Now, I'm setting my sights on data science. Why? Because I've seen firsthand how raw data can be transformed into powerful insights, and I want to be at the forefront of that transformation. I'm not here to dazzle with degrees or big names, but to roll up my sleeves and dive into the complexities of data, ready to uncover the stories it tells.
+
+When I'm not immersed in code or data projects, you'll find me nestled, watching a movie. In fact, if data hadn't captured my attention, I might be behind a camera right now. The Greeks used to ask, "Did he have passion?" Between data and films, I'd say I've found mine in spades. Curious about what I'm watching? Check out my Letterboxd [letterboxd](https://letterboxd.com/sanisideup/) – we might just find some common ground :)
+
