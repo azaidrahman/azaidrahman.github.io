@@ -3,7 +3,7 @@ layout: page
 title: KPI Automation Tool
 description: > 
 KPI Automation Tool
-img: assets/img/KPI_tool/KPIAutomation-PICTURE-PRESENTATION.png
+img: assets/img/KPI_tool/KPIAutomation-PICTURE-1-PRESENTATION.png
 importance: 1
 category: freelance
 related_publications: false
@@ -11,29 +11,31 @@ related_publications: false
 
 Python-based tool designed to automate the process of creating and managing CSM KPI reports. This application streamlines the workflow for CSM teams by consolidating data from various sources and generating comprehensive Excel-based KPI sheets.
 
-I was recommended to by a connection by an Australian cleaning company due to some connections who
+I was recommended to this project by a connection who I had worked with before to an Australian cleaning company. I had completed this in roughly 30 hours with another 10 hours spent on adding features and aligning on certain formats.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/KPIAutomation-PICTURE-BEFORE-1-PRESENTATION" title="before image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     This image can also have a caption. It's like magic.
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+    </div>
+    {% include figure.liquid loading="eager" path="assets/img/KPI_tool/KPIAutomation-PICTURE-1-PRESENTATION.png" title="left image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+    </div>
+    {% include figure.liquid loading="eager" path="assets/img/KPI_tool/KPIAutomation-PICTURE-2-PRESENTATION.png" title="middle image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/KPI_tool/KPIAutomation-PICTURE-2-PRESENTATION.png" title="right image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+    </div>
+</div>
+<div class="caption">
+    Left: Front interface of the program, where the user may upload the necessary documents.
+    Middle: Snapshot of a sample KPI page for a CSM.
+    Right: Extra options included to the program, where apart from the consolidated sheet, you may export all the individual sheets separately.
 </div>
 
 You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
