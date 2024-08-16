@@ -15,11 +15,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Zaid, I live in Kuala Lumpur, Malaysia. I'm currently working in data analysis and market research. My journey here has been anything but linear.
+I'm Zaid, a data analyst and market researcher based in Kuala Lumpur, Malaysia. My path here wasn't straightforward - financial constraints after my Actuarial Science diploma pushed me into the workforce instead of further education. At InsightzSurvey, 5 years later, I've climbed from newcomer to leading the scripting team, mastering the art of learning on the job.
 
-After finishing my diploma in Actuarial Science, life took an unexpected turn. Financial realities pushed me into the workforce instead of further education. This led me to InsightzSurvey, where I've grown from a newcomer to leading the scripting team. It's been a crash course in adapting, learning on the fly, and turning challenges into opportunities.
+Now, I'm setting my sights on data science. I've been a part of as well as witnessed the power of transforming raw data into actionable insights, and I'm eager to be at the forefront of this field. 
 
-Now, I'm setting my sights on data science. I've seen firsthand how raw data can be transformed into powerful insights, and I want to be at the forefront of that transformation. I'm not here to dazzle with degrees or big names, but to roll up my sleeves and dive into the complexities of data, ready to uncover the stories it tells.
+Outside of work, I'm an avid film enthusiast and local league Basketball player. Check out my [letterboxd](https://letterboxd.com/sanisideup/) to see what I'm watching! :)
 
-When I'm not immersed in code or data projects, you'll find me nestled, watching a movie. In fact, if data hadn't captured my attention, I might be behind a camera right now. The Greeks used to ask, "Did he have passion?" Between data and films, I'd say I've found mine in spades. Curious about what I'm watching? Check out my Letterboxd [letterboxd](https://letterboxd.com/sanisideup/) – we might just find some common ground :)
-
+“You know the Greeks didn’t write obituaries. They only asked one question after a man died — Did he have passion?”
+- Serendipity
