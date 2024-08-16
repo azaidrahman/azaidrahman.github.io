@@ -15,7 +15,7 @@ I was recommended to this project by a connection who I had worked with before t
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/KPIAutomation-PICTURE-BEFORE-1-PRESENTATION" title="before image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/KPIAutomation-PICTURE-BEFORE-1-PRESENTATION.png" title="before image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -37,6 +37,8 @@ I was recommended to this project by a connection who I had worked with before t
     Middle: Snapshot of a sample KPI page for a CSM.
     Right: Extra options included to the program, where apart from the consolidated sheet, you may export all the individual sheets separately.
 </div>
+
+$a$
 
 You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
 Say you wanted to write a bit about your project before you posted the rest of the images.
