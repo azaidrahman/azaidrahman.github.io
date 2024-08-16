@@ -1,25 +1,17 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: KPI Automation Tool
+description: > 
+KPI Automation Tool
+img: assets/img/KPI_tool/KPIAutomation-PICTURE-PRESENTATION.png
 importance: 1
-category: work
-related_publications: true
+category: freelance
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Python-based tool designed to automate the process of creating and managing CSM KPI reports. This application streamlines the workflow for CSM teams by consolidating data from various sources and generating comprehensive Excel-based KPI sheets.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+I was recommended to by a connection by an Australian cleaning company due to some connections who
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
